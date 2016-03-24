@@ -1,5 +1,7 @@
 # Ride of the USS Valkyrie
-My first larger-scale Java project, created for an Intro Software Design and Implementation course in spring 2010. The object is to destroy a rapidly-approaching UFO in as little time as possible. Uses public-domain sfx &amp; music, and original art assets created in Adobe Fireworks. It was originally created in an IDE called DrJava and has been reconfigured as a NetBeans project.
+My first larger-scale Java (and really <i>coding</i>, for that matter) project, created for an Intro Software Design and Implementation course in spring 2010. The object is to destroy a rapidly-approaching UFO in as little time as possible. Uses public-domain sfx & music and original art assets created in Adobe Fireworks. It was originally created in an IDE called DrJava and has been reconfigured as a NetBeans project.
+
+Even though it's sloppy, old, <i>very</i> outdated, and not at all indicative of my <i>current</i> coding ability, I still have a soft spot in my heart for it, since it was my first real foray into the world of coding, which is why I've chosen to share it. In fact, I've even considered creating a new, updated version of it, perhaps as a web or mobile app.
 
 I'm uploading it completely as-is, warts and all, which means I haven't tried to clean it up or update it at all. As such, my overall styling is sloppy, and my attempts at using JavaDoc formatting are haphazard and inconsistent, because it was one of my first real projects in Java (rest assured I know better now.) Also, since it's an older project, certain components have since become deprecated, so you may get the following errors but I'm not going to bother fixing it:
 
